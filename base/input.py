@@ -1,0 +1,6 @@
+a = input()
+print('a = ' + a)
+b = input("Press any num\n")
+print('b = ' + b)
+b = input("Press any string\n")
+print('another b = ' + b)
